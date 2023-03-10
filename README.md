@@ -3,10 +3,9 @@
 ## Am a Backend Developer and a Data Scientist from Kenya
 - 🌱I'm currently working on a Store Locator API
 - 🌱I'm also working on fake handwritten signature detector AI Model in Tensorflow, Pytorch and Keras
-- 🔭Checkout my recent project on Machine Learning and AI here[website]
 - 🌱I'm also learning how to implement different Machine Learning Models.
 - 👯I'm looking to collaborate with other developers for knowledge exchange.
-- ⚡2022 Goals: contribute to more open source projects🥅
+- ⚡2023 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI and cyber security.
 - 👨‍💻Other projects are available in my repositories
 - 🌱Fun fact: I love hiking and of course Coffee dates🤣🤣
 
