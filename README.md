@@ -7,7 +7,7 @@
 - 👯I'm looking to collaborate with other developers for knowledge exchange.
 - ⚡2023 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI, DEVOPS and cyber security.
 - 👨‍💻Other projects are available in my repositories
-- Also Learning RUST Programming to be able to build highly efficient, scalable and fast software.🙌
+- 🧨Also Learning RUST Programming to be able to build highly efficient, scalable and maintainable software.🙌
 - 🌱Fun fact: I love hiking and of course Coffee dates🤣🤣
 
 ### Connect with me:
