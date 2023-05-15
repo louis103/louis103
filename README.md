@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis Wambua👋 
 
-## Am a Backend Developer and a Data Scientist from Kenya
+## Am a Full Stack Software Developer and a Machine Learning Engineer from Kenya.
 - 🌱I'm currently working on getting Microsoft Azure DevOps Solutions Engineer and Try Hack Me Junior Pentester Certificates (so I can feel like a pentester😅😆).
 - 🌱I'm also improving on my skills in Tensorflow, Pytorch and Keras.
 - 🌱Networking with different individuals in my field and related fields is also in my bucket of major activities in 2023.
