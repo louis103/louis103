@@ -32,7 +32,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Postgresql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="R language" width="26px" src="https://commons.wikimedia.org/wiki/File:R_logo.svg" />
+<img align="left" alt="Rlanguage" width="26px" 
+     src="https://commons.wikimedia.org/wiki/File:R_logo.svg" />
 <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
 
 <br />
