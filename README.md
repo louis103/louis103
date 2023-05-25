@@ -2,7 +2,7 @@
 
 ## Am a Full Stack Software Developer and a Machine Learning Engineer from Kenya.
 - 🌱I'm currently working on getting Microsoft Azure DevOps Solutions Engineer and Try Hack Me Junior Pentester Certificates (so I can feel like a pentester😅😆).
-- 🌱I'm also improving on my skills in Tensorflow, Pytorch and Keras.
+- 🌱I'm also improving on my skills in Tensorflow, Pytorch,Keras and statistical programming/analysis using R.
 - 🌱Networking with different individuals in my field and related fields is also in my bucket of major activities in 2023.
 - 👯I'm looking to collaborate with other developers for knowledge exchange.
 - ⚡2023 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI, DEVOPS and cyber security.
