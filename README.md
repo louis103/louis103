@@ -1,11 +1,12 @@
 ### Hi there, I'm Louis Wambua👋 
 
-## Am a Full Stack Software Developer and a Machine Learning Engineer from Kenya.
-- 🌱I'm currently working on getting Microsoft Azure DevOps Solutions Engineer and Try Hack Me Junior Pentester Certificates (so I can feel like a pentester😅😆).
+## Am a Backend Developer, Data and Machine Learning Engineer from Kenya.
+- 🤩On 29th,September,2023 I achieved Oracle 2023 Data Science Professional certification. With this certificate I can showcase my data-science skills.
+- 🌱I'm currently implementing Data Engineering projects and lots of open source contributions.
 - 🌱I'm also improving on my skills in Tensorflow, Pytorch,Keras and statistical programming/analysis using R.
 - 🌱Networking with different individuals in my field and related fields is also in my bucket of major activities in 2023.
 - 👯I'm looking to collaborate with other developers for knowledge exchange.
-- ⚡2023 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI, DEVOPS and cyber security.
+- ⚡2023 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI, DEVOPS and data engineering.
 - 👨‍💻Other projects are available in my repositories
 - 🧨Also Learning RUST Programming to be able to build highly efficient, scalable and maintainable software.🙌
 - 🌱Fun fact: I love hiking and of course Coffee dates🤣🤣
