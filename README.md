@@ -47,20 +47,6 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louis103&repo=Dataframe-viewer)](https://github.com/louis103/Dataframe-viewer)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louis103&repo=Twitter-Sentiment-Analysis)](https://github.com/louis103/Twitter-Sentiment-Analysis)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louis103&repo=Fake-URL-Predictor-WebApp-Files)](https://github.com/louis103/Fake-URL-Predictor-WebApp-Files)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louis103&repo=FAST-API-Tutorial)](https://github.com/louis103/FAST-API-Tutorial)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louis103&repo=Python-Flask-Shop-API )](https://github.com/louis103/Python-Flask-Shop-API)
-
 [website]: https://fakeurlpredictor.herokuapp.com/
 [ytplaylist]: https://www.youtube.com/playlist?list=PLyjVytqeU0gVd7AV3koMN-dXbG-OuF6_2
 [youtube]: https://www.youtube.com/channel/UCtRJ9ZehnIURqqARLS9PSiQ
