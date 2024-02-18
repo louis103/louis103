@@ -41,14 +41,15 @@
 
 <br />
 <br />
+<br />
 
 ### 📈 My Github Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louis103&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=louis103&layout=compact&theme=synthwave" />
 </a>
 <a href="https://github-readme-stats.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis103&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis103&layout=compact&theme=vision-friendly-dark&langs_count=8&card_width=320" />
 </a>
 
 ### :fire: My Coding Streak:
