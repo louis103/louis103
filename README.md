@@ -15,10 +15,10 @@
 
 ### 🌐 My socials:
 
-[<img align="left" alt="Louis103 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Louis103 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Louis103 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Louis103 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Louis103 | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" />][youtube]
+[<img align="left" alt="Louis103 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" />][twitter]
+[<img align="left" alt="Louis103 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />][linkedin]
+[<img align="left" alt="Louis103 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />][instagram]
 [<img align="left" alt="Louis103 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" />][Medium]
 <br />
 
@@ -29,14 +29,14 @@
 <img align="left" alt="Node Js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://freepngimg.com/thumb/java/3-2-java-free-download-png.png" />
-<img align="left" alt="Git Control" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />
+<img align="left" alt="Git Control" width="26px" src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" />
+<img align="left" alt="Github" width="26px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />
 <img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Postgresql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="Rlanguage" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" />
-<img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
+<img align="left" alt="Rlanguage" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png" />
+<img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" />
 </div>
 
 <br />
