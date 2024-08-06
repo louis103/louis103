@@ -2,7 +2,7 @@
 
 ## Louis is a Backend Developer, Data and Machine Learning Engineer from Kenya.
 - 🤩On 29th,September,2023 I achieved Oracle 2023 Data Science Professional certification. With this certificate I can showcase my data-science skills.
-- 🌱I'm currently implementing Data Engineering projects and lots of open source contributions.
+- 🌱I'm currently implementing Machine Leanring projects and lots of open source contributions.
 - 🌱I'm also improving on my skills in Tensorflow, Pytorch,Keras and statistical programming/analysis using R.
 - 🌱Networking with different individuals in my field and related fields is also in my bucket of major activities in 2024.
 - 👯I'm looking to collaborate with other developers for knowledge exchange.
@@ -19,7 +19,7 @@
 [<img align="left" alt="Louis103 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Louis103 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Louis103 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Louis103 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" />][Medium]
 <br />
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -67,3 +67,4 @@
 [twitter]: https://twitter.com/luideveloper
 [linkedin]: https://www.linkedin.com/in/louis-wambua-5a6b91226/
 [instagram]: https://www.instagram.com/wambualouis/
+[Medium]: https://medium.com/@wambualouis
