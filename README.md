@@ -4,7 +4,9 @@
 - I'm the CEO and Founder at Flowix, where we are shipping for value. Our goal is to build apps that reach all users worldwide and make working and multitasking easier.
 - I'm also a full-time Techpreneur and Freelancer.
 - I enjoy building beautifully crafted software with outstanding UI/UX, like www.pixelify.studio
-- 
+
+<br/>
+
 - Fun fact: I love hiking, riding a bike, and, of course, coffee dates🤣🤣.
 - Louis is also a GitHub student.
 
