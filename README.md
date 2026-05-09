@@ -1,17 +1,12 @@
 <img src="https://github.com/louis103/louis103/blob/master/My%20Github%20Profile%20Banner.png" alt="Profile Banner Image" />
 
-## Louis is a Backend Developer, Data and Machine Learning Engineer from Kenya.
-- 🤩On 29th,September,2023 I achieved Oracle 2023 Data Science Professional certification. With this certificate I can showcase my data-science skills.
-- 🌱I'm currently implementing Machine Leanring projects and lots of open source contributions.
-- 🌱I'm also improving on my skills in Tensorflow, Pytorch,Keras and statistical programming/analysis using R.
-- 🌱Networking with different individuals in my field and related fields is also in my bucket of major activities in 2024.
-- 👯I'm looking to collaborate with other developers for knowledge exchange.
-- ⚡2024 Goals: contribute to more open source projects🥅, Build up my skills in Machine Learning,AI, DEVOPS and data engineering.
-- 👨‍💻Other projects are available in my repositories
-- ⚡2024 I am set to build more GIS projects leveraging Kubernetes, Docker, IoT and other cloud technologies.
-- 🧨Also Learning RUST Programming to be able to build highly efficient, scalable and maintainable software.🙌
-- 🌱Fun fact: I love hiking and of course Coffee dates🤣🤣
-- 🌱Louis is also a github student.
+## Louis is a Full Stack Software Engineer from Kenya.
+- I'm also the CEO and Founder at Flowix, where we are shipping for value. Our goal is to build apps that will reach all users across the globe and make tasks easier.
+- I'm also a full-time Techpreneur and Freelancer.
+- I enjoy building beautifully crafted software with outstanding UI/UX, like www.pixelify.studio
+  
+- Fun fact: I love hiking, riding a bike, and, of course, coffee dates🤣🤣.
+- Louis is also a GitHub student.
 
 ### 🌐 My socials:
 
@@ -35,7 +30,6 @@
 <img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Postgresql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="Rlanguage" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png" />
 <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/logos/rust-logo-32x32.png" />
 </div>
 
